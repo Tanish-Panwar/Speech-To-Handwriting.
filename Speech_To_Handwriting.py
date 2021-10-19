@@ -1,4 +1,6 @@
 # Speech to HandWriting.
+# SpeechRecognition==3.8.1
+# pywhatkit==3.9
 import speech_recognition as sr
 import pywhatkit
 
